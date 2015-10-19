@@ -3,10 +3,10 @@
 	<extension point="xbmc.addon.repository" name="4SmartTVBoxInstall's Repo">
 		<info compressed="false">https://raw.githubusercontent.com/4smarttv/RepositoryInstall/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/4smarttv/RepositoryInstall/master/addons.xml.md5</checksum>
-    <!--
 		<datadir zip="true">https://raw.githubusercontent.com/4smarttv/RepositoryInstall/master/</datadir>
-     -->
+<!--
 		<datadir zip="true">http://4SmartTVBox.com/RepositoryInstall/</datadir>
+-->
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>Install 4SmartTVInstall Addons</summary>
