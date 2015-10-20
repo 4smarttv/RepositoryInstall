@@ -28,7 +28,6 @@
     <import addon="plugin.video.cartoons8"/>
     <import addon="plugin.video.cartoonworld"/>
     <import addon="plugin.video.tbh.cartoonworld"/>
-    <import addon="plugin.video.chiasenhac"/>
     <import addon="plugin.video.classiccinema"/>
     <import addon="plugin.video.colombiatv"/>
     <import addon="plugin.video.comotin"/>
