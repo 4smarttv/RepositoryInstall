@@ -6,13 +6,11 @@
   provider-name="4SmartTVBox">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
-  <!--
-    <import addon="plugin.video.twomovies"/>
-    <import addon="plugin.video.bundesliega3"/>
-  -->
+
     <import addon="plugin.video.1channel"/>
     <import addon="plugin.video.80smusicvideos"/>
     <import addon="plugin.video.aljazeera"/>
+  <!--
     <import addon="plugin.video.allinone"/>
     <import addon="plugin.video.amnhacviet"/>
     <import addon="plugin.video.anhtrang_org"/>
@@ -174,7 +172,8 @@
     <import addon="video.you.jizz"/>
     <import addon="video.youtube"/>
     <import addon="video.youtubeonfire"/>
-    <import addon="video.zmovies"/> 
+    <import addon="video.zmovies"/>
+    --> 
     
   </requires>
   <extension point="xbmc.python.pluginsource"
