@@ -39,7 +39,7 @@
     <import addon="plugin.video.dramago"/>
     <import addon="plugin.video.empflix"/>
     <import addon="plugin.video.esa"/>
-    <import addon="plugin.video.espn.video"/>
+    <import addon="plugin.video.espn_3"/>
     <import addon="plugin.video.extreme.com"/>
     <import addon="plugin.video.fantasticc"/>
     <import addon="plugin.video.filipinotv3"/>
