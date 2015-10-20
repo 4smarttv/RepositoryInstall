@@ -96,7 +96,7 @@
     <import addon="plugin.video.nakednews3"/>
     <import addon="plugin.video.nba"/>
     <import addon="plugin.video.nbaondemand"/>
-    <import addon="plugin.video.newyoujizz"/>
+    <import addon="plugin.video.you.jizz"/>
     <import addon="plugin.video.nhaccuatui"/>
     <import addon="plugin.video.nhlondemand"/>
     <import addon="plugin.video.NHLVideo"/>
