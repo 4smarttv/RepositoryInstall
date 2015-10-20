@@ -155,7 +155,6 @@
     <import addon="plugin.video.videodevil"/>
     <import addon="plugin.video.vidics"/>
     <import addon="plugin.video.vietmedia.movie"/>
-    <import addon="plugin.video.viettv"/>
     <import addon="plugin.video.viki"/>
     <import addon="plugin.video.vkool"/>
     <import addon="plugin.video.world.news.live"/>
@@ -173,6 +172,7 @@
     <import addon="plugin.video.nba.video"/>
     <import addon="plugin.video.newvideodevil"/>
     <import addon="plugin.video.viettube.channels"/>
+    <import addon="plugin.video.viettv"/>
 -->
   </requires>
   <extension point="xbmc.python.pluginsource"
