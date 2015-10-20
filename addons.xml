@@ -27,7 +27,9 @@
     <import addon="plugin.video.cartoons8"/>
     <import addon="plugin.video.cartoonworld"/>
     <import addon="plugin.video.tbh.cartoonworld"/>
+    <!--
     <import addon="plugin.video.classiccinema" version="2.1.2"/>
+    -->
     <import addon="plugin.video.colombiatv"/>
     <import addon="plugin.video.comotin"/>
     <import addon="plugin.video.concertarchive"/>
