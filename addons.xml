@@ -2,7 +2,7 @@
 <addons>
 <addon
   id="plugin.video.4SmartHTVonline"
-  version="0.0.7"
+  version="0.0.8"
   name="[COLOR ffff0000]H[/COLOR][COLOR ff32cd32]T[/COLOR][COLOR ff0000ff]V[/COLOR][COLOR ffffffff]online[/COLOR]"
   provider-name="4SmartTVBox">
   <requires>
@@ -11,7 +11,6 @@
     <import addon="plugin.video.1channel"/>
     <import addon="plugin.video.80smusicvideos"/>
     <import addon="plugin.video.aljazeera"/>
-  <!--
     <import addon="plugin.video.allinone"/>
     <import addon="plugin.video.amnhacviet"/>
     <import addon="plugin.video.anhtrang_org"/>
@@ -20,6 +19,7 @@
     <import addon="plugin.video.AsianHorror"/>
     <import addon="plugin.video.azdrama"/>
     <import addon="plugin.video.beeg.com"/>
+  <!--
     <import addon="plugin.video.bharatmovies"/>
     <import addon="plugin.video.canada.on.demand-master"/>
     <import addon="plugin.video.cartoongo"/>
