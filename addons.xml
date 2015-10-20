@@ -21,7 +21,6 @@
     <import addon="plugin.video.beeg.com"/>
 
     <import addon="plugin.video.bharatmovies"/>
-    <import addon="plugin.video.canada.on.demand-master"/>
     <import addon="plugin.video.cartoongo"/>
     <import addon="plugin.video.cartoonhd"/>
     <import addon="plugin.video.cartoonhdtwo"/>
