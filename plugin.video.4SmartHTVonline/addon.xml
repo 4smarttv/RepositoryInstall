@@ -5,6 +5,7 @@
   name="[COLOR ffff0000]H[/COLOR][COLOR ff32cd32]T[/COLOR][COLOR ff0000ff]V[/COLOR][COLOR ffffffff]online[/COLOR]"
   provider-name="4SmartTVBox">
   <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
   <!--
     <import addon="plugin.video.twomovies"/>
     <import addon="plugin.video.bundesliega3"/>
