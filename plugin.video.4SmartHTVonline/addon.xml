@@ -26,13 +26,13 @@
     <import addon="plugin.video.cartoons8"/>
     <import addon="plugin.video.cartoonworld"/>
     <import addon="plugin.video.tbh.cartoonworld"/>
+    <import addon="plugin.video.classiccinema"/>
     <!--
     <import addon="plugin.video.classiccinema" version="2.1.2"/>
-    -->
+    <import addon="plugin.video.newcrackler"/>
     <import addon="plugin.video.colombiatv"/>
     <import addon="plugin.video.comotin"/>
     <import addon="plugin.video.concertarchive"/>
-    <import addon="plugin.video.newcrackler"/>
     <import addon="plugin.video.disclose_tv"/>
     <import addon="plugin.video.diy"/>
     <import addon="plugin.video.disneyjunior"/>
@@ -40,6 +40,7 @@
     <import addon="plugin.video.drama24h"/>
     <import addon="plugin.video.dramago"/>
     <import addon="plugin.video.empflix"/>
+    -->
   <!--
     <import addon="plugin.video.esa"/>
     
