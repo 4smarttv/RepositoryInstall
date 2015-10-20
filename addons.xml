@@ -2,7 +2,7 @@
 <addons>
 <addon
   id="plugin.video.4SmartHTVonline"
-  version="0.0.11"
+  version="0.0.12"
   name="[COLOR ffff0000]H[/COLOR][COLOR ff32cd32]T[/COLOR][COLOR ff0000ff]V[/COLOR][COLOR ffffffff]online[/COLOR]"
   provider-name="4SmartTVBox">
   <requires>
