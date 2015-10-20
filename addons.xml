@@ -97,7 +97,6 @@
     <import addon="plugin.video.nakednews3"/>
     <import addon="plugin.video.nba"/>
     <import addon="plugin.video.nbaondemand"/>
-    <import addon="plugin.video.newvideodevil"/>
     <import addon="plugin.video.newyoujizz"/>
     <import addon="plugin.video.nhaccuatui"/>
     <import addon="plugin.video.nhlondemand"/>
@@ -173,6 +172,7 @@
     <import addon="plugin.video.megaboxvn"/>
     <import addon="plugin.video.movie4k"/>
     <import addon="plugin.video.nba.video"/>
+    <import addon="plugin.video.newvideodevil"/>
 -->
   </requires>
   <extension point="xbmc.python.pluginsource"
