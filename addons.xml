@@ -167,10 +167,10 @@
     <import addon="plugin.video.zmovies"/>
     <!--
       More Vietnamese and other
+    <import addon="plugin.video.netporn"/>
     -->
     <import addon="plugin.video.netmovie"/>
     <import addon="plugin.video.netmusic"/>
-    <import addon="plugin.video.netporn"/>
     <import addon="plugin.video.nettivi"/>
     <import addon="plugin.video.netvideos"/>
     <import addon="plugin.video.MonNgonMoiNgay"/>
