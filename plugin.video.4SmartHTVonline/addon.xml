@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon
   id="plugin.video.4SmartHTVonline"
-  version="0.1"
+  version="0.1.2"
   name="[COLOR ffff0000]H[/COLOR][COLOR ff32cd32]T[/COLOR][COLOR ff0000ff]V[/COLOR][COLOR ffffffff]online[/COLOR]"
   provider-name="4SmartTVBox">
   <requires>
@@ -18,7 +18,6 @@
     <import addon="plugin.video.AsianHorror"/>
     <import addon="plugin.video.azdrama"/>
     <import addon="plugin.video.beeg.com"/>
-
     <import addon="plugin.video.bharatmovies"/>
     <import addon="plugin.video.cartoongo"/>
     <import addon="plugin.video.cartoonhd"/>
@@ -165,6 +164,24 @@
     <import addon="plugin.video.youtube"/>
     <import addon="plugin.video.youtubeonfire"/>
     <import addon="plugin.video.zmovies"/>
+    <!--
+      More Vietnamese and other
+    -->
+    <import addon="plugin.video.netmovie"/>
+    <import addon="plugin.video.netmusic"/>
+    <import addon="plugin.video.netporn"/>
+    <import addon="plugin.video.nettivi"/>
+    <import addon="plugin.video.netvideos"/>
+    <import addon="plugin.video.MonNgonMoiNgay"/>
+    <import addon="plugin.video."/>
+    <import addon="plugin.video.PhoBolsaTV"/>
+    <import addon="plugin.video.salts"/>
+    <import addon="plugin.video.AznKodiMedia"/>
+    <import addon="plugin.video.AznKodiMovies"/>
+    <import addon="plugin.video.AznKodiMusic"/>
+    <import addon="plugin.video.AznKodiTV"/>
+    <import addon="plugin.video.AznKodiVideos"/>
+     
 <!--
     <import addon="plugin.video.megaboxvn"/>
     <import addon="plugin.video.movie4k"/>
