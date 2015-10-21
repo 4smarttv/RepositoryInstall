@@ -174,7 +174,6 @@
     <import addon="plugin.video.nettivi"/>
     <import addon="plugin.video.netvideos"/>
     <import addon="plugin.video.MonNgonMoiNgay"/>
-    <import addon="plugin.video."/>
     <import addon="plugin.video.PhoBolsaTV"/>
     <import addon="plugin.video.salts"/>
     <import addon="plugin.video.AznKodiMedia"/>
