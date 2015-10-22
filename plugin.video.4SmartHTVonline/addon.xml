@@ -84,7 +84,6 @@
     <import addon="plugin.video.nhlondemand"/>
     <import addon="plugin.video.NHLVideo"/>
     <import addon="plugin.video.OnePotChefShow"/>
-    <import addon="plugin.video.onlinemovies"/>
     <import addon="plugin.video.ourmatch_net"/>
     <import addon="plugin.video.phatam"/>
     <import addon="plugin.video.phim47"/>
@@ -185,6 +184,7 @@
     <import addon="plugin.video.superreplays"/>
     <import addon="plugin.video.xmovies8"/>
     <import addon="plugin.video.youtubeonfire"/>
+    <import addon="plugin.video.onlinemovies"/>
 -->    
   </requires>
   <extension point="xbmc.python.pluginsource"
