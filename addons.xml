@@ -152,6 +152,14 @@
     <import addon="plugin.video.AznKodiTV"/>
     <import addon="plugin.video.AznKodiVideos"/>
     <import addon="plugin.video.justanimestream"/>
+    <import addon="plugin.video.canada.on.demand.pg"/>
+    <import addon="plugin.video.CanTVLive"/>
+    <import addon="plugin.video.ccloudtv"/>
+    <import addon="plugin.video.channelpear"/>
+    <import addon="plugin.video.heynow"/>
+    <import addon="plugin.video.korea-xxx"/>
+    <import addon="plugin.video.s.p.o.r.t"/>
+    <import addon="plugin.video.zeus"/>
 
 <!--
     <import addon="plugin.video.megaboxvn"/>
@@ -266,6 +274,21 @@
 	</extension>
 </addon>
 
+<addon id="repository.iptvxtra" name="IPTVxtra KODI Add-ons" version="2.2" provider-name="IPTVxtra">
+    <extension point="xbmc.addon.repository"
+        name="IPTVxtra XBMC Add-ons">
+        <info compressed="false">http://srv1.iptvxtra.com/addons/addons.xml</info>
+        <checksum>http://srv1.iptvxtra.com/addons/addons.md5</checksum>
+        <datadir zip="true">http://srv1.iptvxtra.com/addons/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Install XBMC add-ons from the IPTVxtra repository</summary>
+        <description>Install XBMC add-ons from IPTVxtra repository</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+    </extension>
+</addon>
+
 
 <addon id="repository.itvplus"
 		name="ITV Repository"
@@ -302,6 +325,33 @@
 			<platform>all</platform>
 		</extension>
 	</addon>
+
+<addon id="repository.podgod" name="podgod repo" version="1.7" provider-name="podgod">
+	<extension point="xbmc.addon.repository" name="PodGod Addon Repository">
+		<info compressed="false">http://offshoregit.com/podgod/repo/addons.xml</info>
+		<checksum>http://offshoregit.com/podgod/repo/addons.xml.md5</checksum>
+		<datadir zip="true">http://offshoregit.com/podgod/repo/zips</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install My Addons</summary>
+		<description>Download and install addons from podgod!</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="repository.ptom" name="PTOM Repo" version="0.2" provider-name="ptom">
+	<extension point="xbmc.addon.repository" name="PTOM Repo">
+		<info compressed="false">http://ptom.co.uk/repo/addons.xml</info>
+		<checksum>http://ptom.co.uk/repo/addons.xml.md5</checksum>
+		<datadir zip="true">http://ptom.co.uk/repo</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>It's the PTOM Repo \o/</summary>
+		<description>This Repo consists of numerous addons for Kodi created by ptom.</description>
+		<disclaimer>The owner and submitters to this repository do not host or distribute any of the content displayed by these addons nor do they have any affiliation with the content providers.</disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
 
 <addon id="repository.tivi9999" name="tivi9999's Repository" version="1.0.4	" provider-name="tivi9999">
 	<extension point="xbmc.addon.repository" name="tv9999's Add-on Repository">

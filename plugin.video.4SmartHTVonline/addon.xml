@@ -151,6 +151,14 @@
     <import addon="plugin.video.AznKodiTV"/>
     <import addon="plugin.video.AznKodiVideos"/>
     <import addon="plugin.video.justanimestream"/>
+    <import addon="plugin.video.canada.on.demand.pg"/>
+    <import addon="plugin.video.CanTVLive"/>
+    <import addon="plugin.video.ccloudtv"/>
+    <import addon="plugin.video.channelpear"/>
+    <import addon="plugin.video.heynow"/>
+    <import addon="plugin.video.korea-xxx"/>
+    <import addon="plugin.video.s.p.o.r.t"/>
+    <import addon="plugin.video.zeus"/>
      
 <!--
     <import addon="plugin.video.megaboxvn"/>
